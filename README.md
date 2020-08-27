@@ -1,4 +1,4 @@
-![alt text](https://images.app.goo.gl/a2UseFUQRdmoUByQA)
+![UHealth](https://github.com/jedidiesel/Tableau_Sales_Demonstraton/blob/master/U%20Health_horizontal_png_red.png)
 
 ### Tableau_Sales_Demonstraton
 
