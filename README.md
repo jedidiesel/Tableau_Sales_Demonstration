@@ -1,8 +1,8 @@
-![UHealth](https://github.com/jedidiesel/Tableau_Sales_Demonstraton/blob/master/U%20Health_horizontal_png_red.png)
+![UHealth](https://github.com/jedidiesel/Tableau_Sales_Demonstration/blob/master/U%20Health_horizontal_png_red.png)
 
-### Tableau_Sales_Demonstraton
+### Tableau_Sales_Demonstration
 
-![Talbeau](https://github.com/jedidiesel/Tableau_Sales_Demonstraton/blob/master/Tableau%20Logo.jpg)
+![Talbeau](https://github.com/jedidiesel/Tableau_Sales_Demonstration/blob/master/Tableau%20Logo.jpg)
 
 **This is the documenation related to the UHAC presentation for the University of Utah on 8/27/2020 with associated links and a quick reference guide for replicating the Tableau Sales Dashboard.**
 
