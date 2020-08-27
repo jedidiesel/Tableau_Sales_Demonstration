@@ -2,6 +2,8 @@
 
 ### Tableau_Sales_Demonstraton
 
+![Talbeau](https://github.com/jedidiesel/Tableau_Sales_Demonstraton/blob/master/Tableau%20Logo.jpg)
+
 **This is the documenation related to the UHAC presentation for the University of Utah on 8/27/2020 with associated links and a reference guide for replicating the Tableau Sales Dashboard.**
 
 *This guide was made as a reference and should be used in conjunction with the associated video. Both this guide and the video serve as an introduction to visualization principles and were not desiged to review specific solutions.*
