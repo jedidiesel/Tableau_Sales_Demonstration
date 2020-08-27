@@ -4,7 +4,7 @@
 
 ![Talbeau](https://github.com/jedidiesel/Tableau_Sales_Demonstraton/blob/master/Tableau%20Logo.jpg)
 
-**This is the documenation related to the UHAC presentation for the University of Utah on 8/27/2020 with associated links and a reference guide for replicating the Tableau Sales Dashboard.**
+**This is the documenation related to the UHAC presentation for the University of Utah on 8/27/2020 with associated links and a quick reference guide for replicating the Tableau Sales Dashboard.**
 
 *This guide was made as a reference and should be used in conjunction with the associated video. Both this guide and the video serve as an introduction to visualization principles and were not desiged to review specific solutions.*
 
@@ -25,5 +25,9 @@
   20. Number Precision
   21. Color Encoding
   25. Fonts
+  
+ You may download a trial version of Tableau [here](https://www.tableau.com/trial/tableau-software?utm_campaign_id=2017049&utm_campaign=Prospecting-PROD-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Google+Search&utm_language=EN&utm_country=USCA&kw=tableau%20desktop&adgroup=CTX-Brand-Tableau+Desktop-E&adused=RESP&matchtype=e&placement=&gclid=Cj0KCQjws536BRDTARIsANeUZ5_mXIE1C2Ec4CKCbr6tCnuYmk8orYoDGKiSZv1ILKqUusg_kFD6-poaAvnfEALw_wcB&gclsrc=aw.ds)
+ 
+ The accompanying video will be uploaded once the editing is complete
 
 ***Good Luck!***
