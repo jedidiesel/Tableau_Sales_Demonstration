@@ -28,6 +28,6 @@
   
  You may download a trial version of Tableau [here](https://www.tableau.com/trial/tableau-software?utm_campaign_id=2017049&utm_campaign=Prospecting-PROD-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Google+Search&utm_language=EN&utm_country=USCA&kw=tableau%20desktop&adgroup=CTX-Brand-Tableau+Desktop-E&adused=RESP&matchtype=e&placement=&gclid=Cj0KCQjws536BRDTARIsANeUZ5_mXIE1C2Ec4CKCbr6tCnuYmk8orYoDGKiSZv1ILKqUusg_kFD6-poaAvnfEALw_wcB&gclsrc=aw.ds)
  
- The accompanying video will be uploaded once the editing is complete
+ The accompanying video may be found [here](https://uofutah.sharepoint.com/sites/UHAC/Shared%20Documents/Tableau/UHAC%20Tableau%208%2027%202020.mp4)
 
 ***Good Luck!***
